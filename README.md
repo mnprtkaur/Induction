@@ -38,6 +38,11 @@ In this lecture we came to know about that UHV provides a framework for building
 Students would be encouraged to introspect, examine their own beliefs and behaviours and indentify where they are lacking in these values.
 AT the end of these two lectures our day 3 in GNDEC ends.
 
+#DAY4
+Our day in college started and we all students gather in our respective classes as per the schedule.
+My first lecture is of chemistry which starts with an inroduction of experienced teacher MANDEEP MAM, started her lecture by telling us about elements, molecules and compound ,difference between physical , organic and inorganic chemistry, uses of chemistry in everyday life and atells us about our syllabus of first chapters which includes 4 chapters only . 
+Then as our first lecture ends second lecture started which is of programming language that is C++ . we studied from our seniors about C++ language and note it down because itis a new concept for us all .  
+
 
  
 

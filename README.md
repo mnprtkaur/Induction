@@ -41,13 +41,19 @@ AT the end of these two lectures our day 3 in GNDEC ends.
 #DAY4
 Our day in college started and we all students gather in our respective classes as per the schedule.
 My first lecture is of chemistry which starts with an inroduction of experienced teacher MANDEEP MAM, started her lecture by telling us about elements, molecules and compound ,difference between physical , organic and inorganic chemistry, uses of chemistry in everyday life and atells us about our syllabus of first chapters which includes 4 chapters only . 
-Then as our first lecture ends second lecture started which is of programming language that is C++ . we studied from our seniors about C++ language and note it down because itis a new concept for us all .  
+Then as our first lecture ends second lecture started which is of programming language that is C++ . we studied from our seniors about C++ language and note it down because it is a new concept for us all .They tell us through various programs and concepts by which we can easily learn. We also do in our laptops with our seniors side by side so that we all understands it clearly.
+After there was a break for an hour and then we gather in the auditorium for next two lectures.
+The first lecture was of DR.PRIYA DARSHNI MADAM which was based on "Universal Human Values".In this lecture we all understand many things regarding principles or standards of behaviour that are widely recognized across cultures , religions and societies as essential for human coexistence , dignity and flourishing . While interpretations and expressions of these values may differ, their core significance is generally accepted globally. We learn alot from PRIYA mam regarding right understanding, relationships , about personal behaviour , kindness , tolerance and many other things.
+After this amazing lecture there is another session by causmic club .  
 
 
  
 
 
-
+#DAY5
+As per the schedule today our first lecture is of English from 9:30 to 10:30 AM by Prof.Manjot Kaur Mam . In her lecture she gives her introduction first and then tells us about syllabus of english and marking scheme .Then she ask the students to give their introduction in front of all. One by one students come and tells, her or his name where he or she belongs to, from where they hve completed their schooling,and also tell about their strengths and weaknesses along with the ans that why they had choosen CSE branch as their career course. Some students have mic or stage phobia but mam wants to overcome this phobia in students so that they are able to speak in front of audience and remain confident.
+My next lecture is of BEEE from 10:30 to 11:30 AM by Prof. Harpreet Kaur. BEEE stands for Basic Electrical and Electronics Engineering. Mam tells us about this subject which provide a fundamental understanding of electrical and electronics engineering concepts.It includes topics like electrical machines,measuring instruments,electrical wiring and Safety,lab work also.
+Then our last lecture is very interesting and motivating which is of maths by Prof. Gagandeep Kaur Mam. We all learn alot from her as she tells us about college , rules and regulations in college , about screen time and also that how we can practice maths by doing it regualarly practice it more and more . she tells us that there is a hidden talent or strength in each and every student. She also teach girls to be confident and motivated not to lack in front of boys because now girls are replacing boys.She tells us many stories of herself .We are very happy after this lecture and feel very grateful to be a part of this gne family. 
 
 
 

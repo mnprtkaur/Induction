@@ -2,7 +2,7 @@
                                                                        STUDENT INDUCTION PROGRAM FOR BATCH OF 2025
                                                                          NAME- Manpreet Kaur from BRANCH-CSE 
 Our day in GNDEC begins with shabad kirtan in gurudwara of college. with gods grace and his blessings we all start our session.                                                                          
-Firstly RAKESH KUMAR along with the distinguish HODs of departments and deens have reached the auditorium. 
+Firstly RAKESH KUMAR sir along with the distinguish HODs of departments and deens have reached the auditorium. 
 A gud beginning makes a big difference and today it begins with all of us . No matter where our interest lies whether it is in robotics or in poetry in sports or in public speaking there is a platform for every one of us.
 Now , session begins with first lecture by HARSIMRAN SINGH who welcome all the students in induction program for batch 2025.
 MESSAGES TO FRESHERS FROM CSE TOPPER ( 2021 - 2025 ) - 1.BY SANGAM ARORA - He tells us to focus on programming , data structures and code subject .
@@ -56,7 +56,20 @@ My next lecture is of BEEE from 10:30 to 11:30 AM by Prof. Harpreet Kaur. BEEE s
 Then our last lecture is very interesting and motivating which is of maths by Prof. Gagandeep Kaur Mam. We all learn alot from her as she tells us about college , rules and regulations in college , about screen time and also that how we can practice maths by doing it regualarly practice it more and more . she tells us that there is a hidden talent or strength in each and every student. She also teach girls to be confident and motivated not to lack in front of boys because now girls are replacing boys.She tells us many stories of herself .We are very happy after this lecture and feel very grateful to be a part of this gne family. 
 
 
+#DAY6
+Our day starts with our first lecture which is of P2P in which we all interact with our senoirs and learn C++ language and do side by side in our phones by using online compiler.They give their best to tell us everything and clear our basics about C++ language. Students are facing some problems but our seniors help us and guide us at every point.They gives us homework to make one program at the last of lecture and we all should try our best to do it in right way. 
+Our second lecture was by Prof. Jaswant Singh. He is a very inspiring teacher as he tells us that he also completed his Btech and Mtech also from GNDEC in 2019 and now he is standing in front of us as a professor.He tells us about his favourite subjects and about Why we all choose course CSE as our branch and what we are going to be in next four yeras of our journey. So I motivated alot from his lecture and able to learn many things from him as a student .
+Then our another lecture was in auditorium which is by Dr.GURCHARAN SINGH GREWAL. He was a great personality who completed his studies from GNDEC also . He tells us many things about college , college's history and about infrastucture and hostels of college . He aslo interacts and talk with some of the student that what they feel after joining GNE or how they feel during this induction program.
+Then at 2:30PM there is a lecture by Dr.LAKHVIR SINGH. He is a incharge of CML basically it is likea club or workshop where we can enhance our skills except cultural activities. Then he intorduces us with SWAYAM website.It is the biggest platform for having perfect skillset and learning different courses it is such a fun. Our day ends with all this .THANKS.
 
+
+#DAY7
+This is our 7th day in the collge and we all gather in the auditorium at sharp 9:30 AM. 
+Today our first lecture is by Dr.AMIT KAMRA sir. He welcomes us in GNE Family and tells us the importance of these 4 years of Btech . He motivates us to work on our hobbies and to enhance or to brush up our skills.He guides us to identify our limitations and to work on it rather than on our strengths.He motivates and guides us with his words.
+Then next lecture is by Dr RANDHIR SIR . He tells us about the rules and regulations of examination in GNE. About our Ist and 2nd house test which should be conducted in september third week and october third week respectively.he tells us about the rules of attendence that if there was 75% attendence marks of that student is 0 , if 75% above upto 78% then 1 mark is given to that student. Sp it is mandatory to have 100% attendence to get full marks.He tells us many things about marking scheme and final examination. He motivates us to work hard in studies and to do our best in every field.
+Then there is a break from 12:30 to 1:30PM .
+Then we gather in TCC sem hall for ID card formation.
+THANKS.
 
 
 
